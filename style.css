@@ -1,0 +1,14 @@
+body{
+    background-color: #000;
+    color: rgb(206, 192, 192);
+    padding: 30px;
+    border: 1px solid #eee;
+    height: 100%;
+}
+button{
+    background-color: #eee;
+    padding: 1em;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 1em;
+}
